@@ -1,0 +1,12 @@
+{
+  "users": {
+    "admin": { "password": "admin123", "role": "admin", "token": 99 },
+    "player1": { "password": "1234", "role": "user", "token": 5 }
+  },
+  "items": [
+    { "name": "ดาบ", "image": "sword.png", "chance": 0.3 },
+    { "name": "โล่", "image": "shield.png", "chance": 0.3 },
+    { "name": "หมวก", "image": "helmet.png", "chance": 0.4 }
+  ],
+  "logs": []
+}
